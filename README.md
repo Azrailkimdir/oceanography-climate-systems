@@ -48,6 +48,26 @@ Investigating how satellite systems, Argo floats, and ocean observations support
 - Critical Thinking
 - Systems Thinking
 - Scientific Communication
+  
+## Project Visuals
+### Thermohaline Circulation
+
+Understanding how temperature and salinity differences drive the global ocean conveyor belt.
+
+thermohaline-circulation.jpg
+---
+### Gulf Stream and AMOC
+
+Examining the role of Atlantic circulation systems in regulating climate and marine ecosystems.
+
+amoc-gulf-stream.jpg
+---
+
+### ENSO Dynamics
+
+Exploring El Niño and La Niña and their effects on global climate patterns.
+
+el-nino-la-nina.jpg
 
 ## Project Files
 
