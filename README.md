@@ -50,24 +50,26 @@ Investigating how satellite systems, Argo floats, and ocean observations support
 - Scientific Communication
   
 ## Project Visuals
-### Thermohaline Circulation
 
-Understanding how temperature and salinity differences drive the global ocean conveyor belt.
-
-thermohaline-circulation.jpg
----
 ### Gulf Stream and AMOC
 
-Examining the role of Atlantic circulation systems in regulating climate and marine ecosystems.
+Examining how weakening ocean circulation may influence climate systems and marine ecosystems.
 
-amoc-gulf-stream.jpg
+![AMOC Weakening](amoc-weakening.png.png)
 ---
 
 ### ENSO Dynamics
 
-Exploring El Niño and La Niña and their effects on global climate patterns.
+Understanding the differences between El Niño and La Niña climate phases.
 
-el-nino-la-nina.jpg
+![ENSO Comparison](enso-comparison.png.png)
+---
+
+### Marine Ecosystem Responses
+
+Exploring how ENSO events affect marine productivity and ecosystem stability.
+
+![ENSO Ecosystem Effects](enso-ecosystem-effects.png.png)
 
 ## Project Files
 
