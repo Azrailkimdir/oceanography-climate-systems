@@ -1,3 +1,7 @@
+## Project Status
+
+🚧 In Development
+
 # Oceanography and Climate Systems 🌊
 
 An independent research project exploring ocean circulation, climate regulation, atmospheric teleconnections, and the role of ocean systems in shaping global weather and marine ecosystems.
