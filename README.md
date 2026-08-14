@@ -80,5 +80,4 @@ Exploring how ENSO events affect marine productivity and ecosystem stability.
 ## Author
 
 Sarp AKAR
-Prospective Molecular Biology Student
 
