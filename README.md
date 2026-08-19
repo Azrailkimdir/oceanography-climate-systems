@@ -4,11 +4,11 @@
 
 # Oceanography and Climate Systems 🌊
 
-An independent research project exploring ocean circulation, climate regulation, atmospheric teleconnections, and the role of ocean systems in shaping global weather and marine ecosystems.
+An independent research project exploring ocean circulation, climate systems, scientific modeling, and the role of large-scale environmental processes in shaping Earth's climate.
 
 ## Research Question
 
-How do ocean currents and climate systems influence global temperatures, marine ecosystems, and weather patterns around the world?
+How do ocean currents and climate systems influence global temperatures, weather patterns, and environmental processes around the world?
 
 ## Research Areas
 
@@ -16,9 +16,9 @@ How do ocean currents and climate systems influence global temperatures, marine 
 
 - Climate Science
 
-- Marine Ecology
+- Systems Thinking
 
-- Climate Systems
+- Scientific Modeling
 
 - Data Analysis
 
@@ -28,50 +28,51 @@ How do ocean currents and climate systems influence global temperatures, marine 
 
 ### Thermohaline Circulation
 
-Understanding how temperature and salinity differences drive the global ocean conveyor belt.
+Understanding how temperature and salinity differences drive the global ocean conveyor belt and influence climate regulation.
 
 ### Gulf Stream and AMOC
 
-Examining the role of Atlantic circulation systems in regulating climate.
+Examining the role of Atlantic circulation systems in transporting heat, regulating climate, and influencing environmental stability.
 
 ### ENSO Dynamics
 
-Exploring El Niño and La Niña and their impact on weather and ecosystems.
+Exploring El Niño and La Niña as examples of large-scale climate processes and system interactions.
 
 ### Climate Monitoring
 
-Investigating how satellite systems, Argo floats, and ocean observations support climate research.
+Investigating how satellites, Argo floats, environmental observations, and data analysis support scientific modeling and climate research.
 
 ## Skills Demonstrated
 
-- Oceanography
-- Climate Science
-- Marine Ecology
+- Systems Thinking
+- Scientific Modeling
 - Data Analysis
 - Scientific Research
 - Critical Thinking
-- Systems Thinking
 - Scientific Communication
+- Climate Science
+- Oceanography
+- Problem Solving
   
 ## Project Visuals
 
 ### Gulf Stream and AMOC
 
-Examining how weakening ocean circulation may influence climate systems and marine ecosystems.
+Examining how large-scale ocean circulation systems influence climate regulation and environmental stability.
 
 ![AMOC Weakening](amoc-weakening.png.png)
 ---
 
 ### ENSO Dynamics
 
-Understanding the differences between El Niño and La Niña climate phases.
+Understanding how El Niño and La Niña affect interconnected climate systems around the world.
 
 ![ENSO Comparison](enso-comparison.png.png)
 ---
 
-### Marine Ecosystem Responses
+### Climate and Ecosystem Interactions
 
-Exploring how ENSO events affect marine productivity and ecosystem stability.
+Exploring how environmental systems respond to changes in ocean circulation and climate patterns.
 
 ![ENSO Ecosystem Effects](enso-ecosystem-effects.png.png)
 
