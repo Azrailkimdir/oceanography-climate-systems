@@ -83,7 +83,7 @@ Exploring how environmental systems respond to changes in ocean circulation and 
 - References
 - 
 ### Access Full Report
-[Oceanography and Climate Systems Report](Oceanography_and_Climate_Systems.pdf.pdf)
+[Oceanography and Climate Systems Report](Oceanography_and_Climate_Systems.pdf.)
 
 ## Author
 
