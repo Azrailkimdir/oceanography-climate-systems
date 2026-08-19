@@ -60,21 +60,21 @@ Investigating how satellites, Argo floats, environmental observations, and data 
 
 Examining how large-scale ocean circulation systems influence climate regulation and environmental stability.
 
-![AMOC Weakening](amoc-weakening.png.png)
+![AMOC Weakening](amoc-climate-systems.png.png)
 ---
 
 ### ENSO Dynamics
 
 Understanding how El Niño and La Niña affect interconnected climate systems around the world.
 
-![ENSO Comparison](enso-comparison.png.png)
+![ENSO Comparison](enso-dynamics.png.png)
 ---
 
 ### Climate and Ecosystem Interactions
 
 Exploring how environmental systems respond to changes in ocean circulation and climate patterns.
 
-![ENSO Ecosystem Effects](enso-ecosystem-effects.png.png)
+![ENSO Ecosystem Effects](climate-ecosystem-interactions.png.png)
 
 ## Project Files
 
